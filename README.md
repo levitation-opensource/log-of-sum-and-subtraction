@@ -22,7 +22,7 @@ ln(a - b) = ln{exp[ln(a) - ln(b)] - 1} + ln(b), if a > b.
 ## Overview of files
 * Methods for calculating logarithm of sum or subtraction.
 * Examples comparing the methods with a naive solution which will produce overflow.
-* See also the attached [pdf file](https://github.com/levitation/log-of-sum-and-subtraction/blob/master/Method%20for%20calculating%20precise%20logarithm%20of%20a%20sum%20and%20subtraction.pdf) for more detail.
+* See also the included [pdf file](https://github.com/levitation/log-of-sum-and-subtraction/blob/master/Method%20for%20calculating%20precise%20logarithm%20of%20a%20sum%20and%20subtraction.pdf) for more detail.
 
 
 [![Analytics](https://ga-beacon.appspot.com/UA-351728-28/log-of-sum-and-subtraction/README.md?pixel)](https://github.com/igrigorik/ga-beacon)
