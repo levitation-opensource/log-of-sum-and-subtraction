@@ -1,6 +1,6 @@
-## Methods for calculating precise logarithm of a sum and subtraction
+## Methods for calculating precise logarithm of a sum and subtraction of large or small numbers
 
-Disclosed are methods to compute the precise value of the logarithm of a sum and the logarithm of a subtraction.
+Disclosed are methods to compute the precise value of the logarithm of a sum and the logarithm of a subtraction of large or small numbers.
 
 A number of practical problems can result in having too big or small values in intermediate values of a calculation. Then one tries to take logarithm of these values and operate on logarithms instead.
 
