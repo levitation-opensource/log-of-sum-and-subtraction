@@ -18,3 +18,9 @@ ln(a + b) = ln{exp[ln(a) - ln(b)] + 1} + ln(b).
 
 In a similar manner we can compute the logarithm of subtraction, based on the notion that
 ln(a - b) = ln{exp[ln(a) - ln(b)] - 1} + ln(b), if a > b.
+
+
+See also the attached pdf file for more detail.
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-351728-28/log-of-sum-and-subtraction/README.md?pixel)](https://github.com/igrigorik/ga-beacon)
